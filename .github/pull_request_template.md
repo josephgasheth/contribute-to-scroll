@@ -16,5 +16,5 @@
 # Contribution Description 📝
 _Describe your work in more details here_
 
-# Additional Resources 🔗
+# Aditional Resources 🔗
 _Add any additional links you feel like will help with the review here (Contract Address, Deployer Address, Links to the code etc.)_
